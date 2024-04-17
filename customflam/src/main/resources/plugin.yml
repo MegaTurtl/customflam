@@ -1,6 +1,0 @@
-name: customflam
-main: com.maniaty.disaster.customflam.CustomFlam
-version: 1.1
-api-version: 1.20
-author: MegaTurtl
-description: Makes specified blocks flammable.
